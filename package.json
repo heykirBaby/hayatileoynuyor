@@ -1,0 +1,14 @@
+{
+  "name": "v12-guard",
+  "version": "0.0.1",
+  "description": "guard",
+  "main": "raviwen.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Ravi-Wap",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
